@@ -21,10 +21,10 @@ A shortlist is created based on all eligible entries and the final voting is car
 
 The tentative timeline is
 
-Awards ordered: Tuesday, September 6, 2022
-Nominations open: Tuesday, September 6, 2022
-Nominations close: Tuesday, September 13, 2022
-Voting opens: Thursday, September 15, 2022
-Voting closes: Monday, September 26, 2022
-Winner names sent to be engraved: Wednesday, September 28, 2022
-Winners announced at SigstoreCon: Tuesday, October 25, 2022
+   * Awards ordered: Tuesday, September 6, 2022
+   * Nominations open: Tuesday, September 6, 2022
+   * Nominations close: Tuesday, September 13, 2022
+   * Voting opens: Thursday, September 15, 2022
+   * Voting closes: Monday, September 26, 2022
+   * Winner names sent to be engraved: Wednesday, September 28, 2022
+   * Winners announced at SigstoreCon: Tuesday, October 25, 2022
