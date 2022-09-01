@@ -4,7 +4,7 @@ The Sigstore community gives awards to recognize all the work that makes the sig
 
 The first set of community awards will be presented at [SigstoreCon](https://events.linuxfoundation.org/sigstorecon-north-america/) on October 25th 2022. 
 
-## Award Categories
+### Award Categories
 
 The award categories are:
 
